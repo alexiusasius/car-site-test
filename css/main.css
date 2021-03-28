@@ -1,0 +1,175 @@
+body{
+	background:  #000000;
+	margin: 0;
+	padding: 0;
+}
+
+a{
+	text-decoration: none;
+	color: #fff;
+}
+
+ul,li{
+	font-family: Open Sans;
+	display: block;
+}
+
+h1{
+	font-size: 64px;
+	text-transform: uppercase;
+	margin: 0;
+
+}
+
+h2{
+	color: #fff
+
+
+}
+
+p{
+	font-size: 24px;
+	text-transform: uppercase;
+	font-family: Open Sans;
+	letter-spacing: 0.03em;
+	margin: 0;
+}
+
+.header{
+	background: url("../img/mp.jpg") no-repeat center top / cover;
+}
+
+.container{
+	width: 1170px;
+	margin:0 auto;  
+}
+
+.nav{
+	display: flex;
+	align-items: center;
+	padding-top: 26px;
+}
+
+.menu{
+	display: flex;
+	margin: 0;
+	padding: 0;
+
+}
+
+.tele:hover{
+	color:#F08989;
+}
+
+.menu li a {
+	text-transform: uppercase;
+	text-decoration: none;
+	letter-spacing: 0.03em;
+	font-size: 18px;
+}
+
+.menu li{
+	margin-right: 22px;
+
+}
+
+.menu a:hover{
+	color:#F08989;
+}
+
+.tele{
+	text-transform: uppercase;
+	font-family: Open Sans;
+	font-size:18px;
+}
+
+.offer{
+	padding-top: 174px;
+
+}
+
+.verh{
+
+
+}
+
+
+.niz {
+	font-size: 24px;
+	letter-spacing: 0.03em;
+	font-family: 'Anton', sans-serif;
+	padding-bottom: 354px;
+}
+
+.offer h1{
+	font-family: 'Anton', sans-serif;
+	letter-spacing: 0.03em;
+    font-style: normal;
+    font-weight: normal;
+    line-height: 94px;
+    margin-bottom: 81px;
+    margin-top: 2px;
+
+}
+
+
+/*seccond page*/
+
+.catalog h2{
+	font-size: 48px;
+	text-decoration: uppercase;
+	font-family: 'Anton', sans-serif;
+	letter-spacing: 0.03em;
+	padding: 0;
+	margin-top: 145px;
+	text-align: center;
+
+}
+
+.gallery{
+	justify-content: space-between;
+	margin-top:145px;
+}
+
+.exampels p{
+	color:#fff;
+	font-family: Open Sans;
+	font-size:18px;
+	width:470px;
+	padding-left: 100px;
+	padding-top: 90px;
+}
+
+.cars_first {
+	display: flex;
+	justify-content: space-between;
+	margin-top: 145px;
+	padding-right: 66px;
+
+}
+
+.exampel p{
+	color:#fff;
+	font-family: Open Sans;
+	font-size:18px;
+	width:470px;
+	padding-top: 90px;
+
+}
+
+.cars_seccond{
+	display: flex;
+	justify-content: space-between;
+	margin-top: 145px;
+	padding-left: 100px;
+}
+
+.alexius{
+	color:#fff;
+	padding: 90px;
+    
+}
+
+.alexius p{
+	font-family: 'Anton', sans-serif;
+}
